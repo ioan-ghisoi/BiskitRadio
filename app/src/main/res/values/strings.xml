@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Biskit Radio</string>
+    <string name="stream_url">http://81.150.1.153:8000/stream.mp3</string>
+</resources>

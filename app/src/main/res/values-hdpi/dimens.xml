@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="media_buttons">30dp</dimen>
+    <dimen name="play_button">22dp</dimen>
+</resources>
