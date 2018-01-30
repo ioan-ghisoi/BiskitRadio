@@ -39,7 +39,7 @@ android:orientation="vertical"
                     android:adjustViewBounds="true"
                     android:padding="50dp"
                     android:scaleType="fitCenter"
-                    android:src="@drawable/logo_square" />
+                    android:src="@drawable/biglogo" />
 
 
                 <es.claucookie.miniequalizerlibrary.EqualizerView
